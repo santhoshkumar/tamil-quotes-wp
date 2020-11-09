@@ -8,13 +8,13 @@ Stable tag: trunk
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Display Random Tamil SMS kavithai and Quotes on your Wordpress Site.
+Display Random Tamil SMS kavithai and Quotes on your WordPress Site.
 
 == Description ==
 
-Simple and Light Weight Plugin to Display Random Tamil SMS kavithai and Quotes on your Wordpress Site.
+Simple and Light Weight Plugin to Display Random Tamil SMS kavithai and Quotes on your WordPress Site.
 
-Just insert the Shortcode on Posts or pages or Widget and Done
+Just insert the Shortcode on Posts/Pages or Widget and Done
 
 > Make it Simple
 
@@ -31,7 +31,7 @@ Just insert the Shortcode on Posts or pages or Widget and Done
 == Installation ==
 = Tamil Quotes =
 1. Go to Plugins > Add New Plugin*, search for **Tamil Quotes** and click "*Install now*"
-2. Alternative method, download the plugin and Upload the Tamil Quotes folder to the /wp-content/plugins/directory
+2. Alternative method, Download the plugin and Upload the `Tamil Quotes` folder inside the /wp-content/plugins/
 3. Activate the plugin
 4. Now go to WordPress Dashboard -> Settings -> Plugin settings page.
 5. Choose the Background and text Color and Start Displaying the Random Tamil Quotes via Shortcode
@@ -41,15 +41,15 @@ Just insert the Shortcode on Posts or pages or Widget and Done
 
 = Where the Tamil Quotes Data's are Hosted? =
 
-All Tamil Quotes Data's are Hosted on our Server and Fetch via JSON API
+All Tamil Quotes Data's are Hosted on our Server and Fetched via JSON API
 
 = Where the Tamil Quotes data's are Collected? =
 
-I collected Everything on Internet Searches, Social profiles/Groups and Channels and Forwarding
+I collected Everything on Internet Searches, Social Profiles/Groups and Channels and Forwarding
 
 = Auto Refreshing? =
 
-yes Every 2 Mins you can also Manually refresh the page to view the Random Tamil Kavithai
+Yes Every 2 Mins. You can also Manually refresh the page to view the Random Tamil Kavithai
 
 == Screenshots ==
 
