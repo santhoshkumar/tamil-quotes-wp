@@ -25,7 +25,7 @@ async function fetchquotes() {
 
 function quotes_text(hellotaquotesClass, text) {
     for (let i = 0; i < hellotaquotesClass.length; i++) {
-        hellotaquotesClass[i].innerHTML = '<p>Fetching Tamil Quotes 💌</p>';
+        hellotaquotesClass[i].innerHTML = '<p>தமிழ் கோட்ஸ் 💌</p>';
         setTimeout(() => {
             hellotaquotesClass[i].innerHTML = text;
         }, 1000);
