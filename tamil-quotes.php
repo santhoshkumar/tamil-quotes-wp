@@ -5,7 +5,7 @@
 * Description: Display Random Tamil SMS kavithai and Quotes on your Wordpress Site.
 * Version: 1.0
 * Author: Santhosh veer
-* Author URI: https://github.com/santhoshkumar/tamil-quotes-wp
+* Author URI: https://sanweb.info/
 * License: GPLv3
 * License URI: http://www.gnu.org/licenses/gpl.html
 */
